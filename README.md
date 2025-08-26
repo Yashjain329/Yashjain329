@@ -103,21 +103,6 @@
 
 ---
 
-## 🏆 Awards & Achievements
-
-- 🏅 Intern (App Development) at UptoSkills
-
----
-
-## 📜 Certificates
-
-- 💡 Circuit Designing & Simulating In TinkerCAD At NIMS University
-- 📊 MATLAB & SIMULINK Design Tech Workshop At NIMS University
-- 🤖 AI Tools and ChatGPT Workshop From Be10X
-- 🔥 Supabase Bootcamp From Let's Upgrade
-
----
-
 ## 📫 Contact
 
 <p align="center">
