@@ -92,11 +92,9 @@
         <em>Flutter-based mobile app to detect and analyze billboards in images or real-time camera feeds.<br>
         Uses image processing and offers a cross-platform, user-friendly experience for iOS and Android.</em>
       </p>
+      <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=flat-square"/>
       <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square"/>
       <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat-square"/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square"/>
-      <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
     </td>
     <td></td>
     <td></td>
@@ -137,5 +135,4 @@
 <!-- GitHub Stats Cards -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yashjain329&show_icons=true&theme=tokyonight&hide=stars" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashjain329&theme=tokyonight" width="400"/>
 </p>
