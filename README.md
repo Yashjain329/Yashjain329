@@ -14,7 +14,7 @@
 <!-- Animated About Me Section -->
 ## 🧠 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding-gif" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding-gif" />
 
 - 🚀 Passionate about building creative solutions and user-centric apps  
 - 🛠️ Interned at UptoSkills, focusing on app development, backend, and secure authentication  
