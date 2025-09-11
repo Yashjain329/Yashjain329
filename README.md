@@ -96,7 +96,20 @@
       <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square"/>
       <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat-square"/>
     </td>
-    <td></td>
+    <td>
+      <a href="https://github.com/Yashjain329/statgenie" target="_blank">
+        <img src="https://img.icons8.com/fluency/96/bar-chart.png" width="40" /><br/>
+        <b>StatGenie</b>
+      </a>
+      <p>
+        <em>Web application for statistical analysis, visualization, and data insights.<br>
+        Designed to help users easily explore, analyze, and interpret datasets with interactive tools.</em>
+      </p>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square"/>
+    </td>
     <td></td>
   </tr>
 </table>
