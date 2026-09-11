@@ -18,7 +18,6 @@
 - 🚀 Flutter & Android developer passionate about building **production-ready apps**
 - 🏆 **Hackathon Winner** — Hack2Skill PromptWars 2026 *(ElectWise)*
 - 🏅 **Intern of the Month** — UptoSkills *(Flutter Developer, led 15–20 devs)*
-- 🥉 **9th Place** — National Ideathon 2.0 *(Team GRUBOX)*
 - 🎓 B.Tech + M.Tech (Int.) in CSE — **NIMS University** *(2022–2027)*
 - 💡 Always exploring: AI integration, cloud backends, mobile experiences
 
